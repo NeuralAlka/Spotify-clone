@@ -1,2 +1,13 @@
-# Spotify-clone
-A responsive and visually appealing music streaming web app inspired by Spotify, replicating its core UI and user experience.
+## 🔹 Features
+- Spotify-inspired UI design
+- Sidebar with Home, Search, and Library sections
+- Fully responsive layout using only HTML and CSS
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox and Media Queries)
+
+
+## 🚀 Future Scope
+- Add audio player functionality
+
